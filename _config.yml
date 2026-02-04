@@ -36,13 +36,12 @@ twitter:
 social:
   # Footer(바닥글)에 표시될 이름입니다.
   name: HyungJun Byun
-  email: # (여기에 자주 쓰는 이메일 주소를 입력하세요. 예: abc@snu.ac.kr)
+  email: hjbyun04@gmail.com
   links:
     # 아이콘을 클릭했을 때 이동할 주소들입니다.
     - https://github.com/HyungJunByun # 깃허브 메인
     - https://www.linkedin.com/in/hyungjun-byun # (링크드인 주소가 있다면 여기에 ID 추가)
     - https://www.instagram.com/hj_builds # (인스타 추가함)
-    # - https://twitter.com/username (트위터는 사용 안 하시면 주석 처리)
 
 # Site Verification Settings
 # (나중에 구글 서치 콘솔 등록할 때 채우는 곳입니다. 지금은 비워두셔도 됩니다.)
