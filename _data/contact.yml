@@ -18,6 +18,11 @@
   icon: 'fab fa-instagram'
   url: 'https://www.instagram.com/hj_builds'
   noblank: true
+
+- type: linkedin
+  icon: 'fab fa-linkedin'
+  url: 'https://www.linkedin.com/in/hyungjun-byun-375845359/'
+  noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
