@@ -6,7 +6,7 @@ categories: [Review, Startup]
 tags: [Spotify, The Playlist, Entrepreneurship, 창업, 넷플릭스]
 ---
 
-<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/5f3d38c5-dff6-4a86-b04a-fc40ed66e9b3" />
+<img width="440" height="660" alt="Image" src="https://github.com/user-attachments/assets/813da178-abb8-45cb-a4fe-c9c0f90ee572" />
 # 더 플레이리스트
 ## 스포티파이의 창업 이야기에서 배운 인사이트 5가지
 
@@ -57,7 +57,7 @@ tags: [Spotify, The Playlist, Entrepreneurship, 창업, 넷플릭스]
 <hr>
 <br>
 
-<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/5f3d38c5-dff6-4a86-b04a-fc40ed66e9b3" />
+<img width="440" height="660" alt="Image" src="https://github.com/user-attachments/assets/813da178-abb8-45cb-a4fe-c9c0f90ee572" />
 # The Playlist
 ## 5 Insights Learned from Spotify's Founding Story
 
