@@ -14,7 +14,7 @@ tags: [Spotify, The Playlist, Entrepreneurship, 창업, 넷플릭스]
 
 <img width="1066" height="600" alt="Image" src="https://github.com/user-attachments/assets/985b8992-4fe1-48aa-9f78-5da00c832621" />
 
-### 1. 명확한 비전: 계획, 열정, 부적절한 타협 방지
+### 1. 명확한 비전
 스포티파이 창업가 다니엘 에크는 불법 음악 사이트 ‘파이릿 배이’가 음악계에 혼란을 주던 시기 영감을 받아 ‘0.2초 안에 음악이 재생되는 합법적 온라인 음악 스트리밍 서비스’라는 명확한 비전을 세우게 된다.
 산업계는 다니엘의 비전을 이해하지 못했지만, 그의 비전은 명확했고, 고난 속에서도 끊임없이 도전하는 열정을 그와 팀원들에게 주었다.
 또한 0.4초에서 적당히 타협하려는 주변 팀원들과 달리 다니엘은 0.2초라는 비전을 유지했고, 끝내 그의 비전은 실현되었다.
@@ -76,7 +76,7 @@ tags: [Spotify, The Playlist, Entrepreneurship, 창업, 넷플릭스]
 
 <img width="1066" height="600" alt="Image" src="https://github.com/user-attachments/assets/985b8992-4fe1-48aa-9f78-5da00c832621" />
 
-### 1. A Clear Vision: Planning, Passion, and Preventing Inappropriate Compromise
+### 1. A Clear Vision
 Spotify founder Daniel Ek was inspired during a time when the illegal music site 'The Pirate Bay' was disrupting the music industry. He established a clear vision: "a legal online music streaming service where music plays within 0.2 seconds." 
 The industry couldn't understand his vision, but its clarity gave him and his team the passion to constantly challenge themselves, even through hardships. Furthermore, unlike his teammates who were willing to compromise at 0.4 seconds, Daniel held fast to his 0.2-second vision, which was ultimately realized. A clear vision like this is the driving force that keeps a startup team running.
 
